@@ -7,12 +7,11 @@ Custom GPT에서 근로복지공단 고용·산재보험 정보를 조회하기 
 ---
 
 ## 📦 Install Packages
-mkdir weather-data-final
-cd weather-data-final
+mkdir myserver
+cd myserver
 npm init -y
-npm install axios express request
-npm install --save-dev @types/node
-
+npm install express axios request dotenv
+npm install --save-dev @types/node nodemon
 
 
 🔗 Test Link
