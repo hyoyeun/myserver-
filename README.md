@@ -7,11 +7,11 @@ Custom GPT에서 근로복지공단 고용·산재보험 정보를 조회하기 
 ---
 
 ## 📦 Install Packages
-mkdir myserver
-cd myserver
-npm init -y
-npm install express axios request dotenv
-npm install --save-dev @types/node nodemon
+mkdir myserver /n
+cd myserver /n
+npm init -y  /n
+npm install express axios request dotenv  /n
+npm install --save-dev @types/node nodemon  /n
 
 
 🔗 Test Link
@@ -19,9 +19,16 @@ http://127.0.0.1:3000/weather?serviceKey=내 인증키&numOfRows=10&pageNo=1&bas
 
 
 🐙 Github 연동하기
-git init
-git add .
-git commit -m "커밋 메세지 작성하기"
-git remote add origin https://github.com/내아이디/저장소이름.git
-git branch -M main
-git push -u origin main
+git init  /n
+git add .  /n
+git commit -m "커밋 메세지 작성하기"  /n
+git remote add origin https://github.com/내아이디/저장소이름.git  /n
+git branch -M main  /n
+git push -u origin main  /n
+
+
+### 샘플 사업자등록번호
+- 4762002009
+- 5148131525
+- 4640600453
+- 6368700509
